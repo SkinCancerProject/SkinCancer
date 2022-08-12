@@ -8,15 +8,15 @@ https://docs.google.com/spreadsheets/d/1BD_DMMxOsQ9SVEsDU0NxTZJukI0HuKRl/edit?us
 https://drive.google.com/file/d/1R-UCXRKS3nSirZ6q8m7iQKN8YTA2dXMG/view?usp=sharing
 
 - Análisis Previo de resultados<br>
-https://colab.research.google.com/drive/1m4pspkDEv2LNHp6EdkRAWo9mAN4x6EaU?usp=sharing
-https://colab.research.google.com/drive/1P64dmXfODvbVVUiTDFj0jT1ZQ8WISRkK?usp=sharing
+https://drive.google.com/file/d/1w_G7R1Cklaw8xodZHg3aWEKv_XcLLm09/view?usp=sharing
+https://drive.google.com/file/d/1oPUjPoGZgi3Oe-w0XKNCvNEDCp2fvhdv/view?usp=sharing
 
 - Creación del modelo estudiante para el Knowledge Distillation<br>
-https://colab.research.google.com/drive/1WRyZSTKqqnk8BEXvNt9vin1beEVV0b1V?usp=sharing
+https://drive.google.com/file/d/1mu4SfbjjYJZCN0KD4rMpqMTPRrh7g9NT/view?usp=sharing
 
 - Búsqueda de Hiperparámatros para la aplicación del Knowledge Distillation - 2 clases<br>
-https://colab.research.google.com/drive/1fx5BZ5r5M3jItHRAFuuWDYKS6xonAX7q?usp=sharing
+https://drive.google.com/file/d/1oBNM1XEdJl9Jg9MDU08GOzZ71QnJ2aWN/view?usp=sharing
 
 - Búsqueda de Hiperparámatros para la aplicación del Knowledge Distillation - 3 clases<br>
-https://colab.research.google.com/drive/1r6PVjySmPcGzX61yRjHQnCTRpYlHXA_f?usp=sharing
+https://drive.google.com/file/d/1pWb965hpeFf-THg-TRnuiA4GGkMBY6YW/view?usp=sharing
 
