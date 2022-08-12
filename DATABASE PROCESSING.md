@@ -1,6 +1,6 @@
-- This file corresponds to the programming that allowed classifying the elements of the database into malignant and benign.<br>
-- Archivo que clasifica los elementos de la base de datos en Benigno y Maligno. <br>
-https://drive.google.com/file/d/1P2V0lQskqrbHUKPfkIiY1jbuIMlKqNeW/view?usp=sharing
+- This file corresponds to the programming that allowed classifying the elements of the database into malignant and benign.
+- Archivo que clasifica los elementos de la base de datos en Benigno y Maligno. 
+https://drive.google.com/file/d/1P2V0lQskqrbHUKPfkIiY1jbuIMlKqNeW/view?usp=sharing <br>
 
 - File with the metadata corresponding to each image.<br>
 - Archivo metadata correspondiente a cada imagen.<br>
