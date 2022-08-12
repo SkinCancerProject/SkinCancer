@@ -2,16 +2,16 @@
 - Archivo que clasifica los elementos de la base de datos en Benigno y Maligno. 
 https://drive.google.com/file/d/1P2V0lQskqrbHUKPfkIiY1jbuIMlKqNeW/view?usp=sharing <br>
 
-- File with the metadata corresponding to each image.<br>
-- Archivo metadata correspondiente a cada imagen.<br>
+- File with the metadata corresponding to each image.
+- Archivo metadata correspondiente a cada imagen.
 https://docs.google.com/spreadsheets/d/1BD_DMMxOsQ9SVEsDU0NxTZJukI0HuKRl/edit?usp=sharing&ouid=103853027402152568985&rtpof=true&sd=true
 
-- File corresponding to the code generated to identify and remove repeated images from the database.<br>
-- Este archivo identifica y remueve elementos repetido de la base de datos.<br>
+- File corresponding to the code generated to identify and remove repeated images from the database.
+- Este archivo identifica y remueve elementos repetido de la base de datos.
 https://drive.google.com/file/d/1R-UCXRKS3nSirZ6q8m7iQKN8YTA2dXMG/view?usp=sharing
 
 - Preliminary analysis of results
-- Análisis Previo de resultados<br>
+- Análisis Previo de resultados
 https://drive.google.com/file/d/1w_G7R1Cklaw8xodZHg3aWEKv_XcLLm09/view?usp=sharing
 https://drive.google.com/file/d/1oPUjPoGZgi3Oe-w0XKNCvNEDCp2fvhdv/view?usp=sharing
 
