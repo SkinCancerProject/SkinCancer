@@ -6,8 +6,8 @@ https://drive.google.com/file/d/1P2V0lQskqrbHUKPfkIiY1jbuIMlKqNeW/view?usp=shari
   Archivo metadata correspondiente a cada imagen.<br>
 https://docs.google.com/spreadsheets/d/1BD_DMMxOsQ9SVEsDU0NxTZJukI0HuKRl/edit?usp=sharing&ouid=103853027402152568985&rtpof=true&sd=true
 
-- File corresponding to the code generated to identify and remove repeated images from the database.
-  Este archivo identifica y remueve elementos repetido de la base de datos.
+- File corresponding to the code generated to identify and remove repeated images from the database.<br>
+  Este archivo identifica y remueve elementos repetido de la base de datos.<br>
 https://drive.google.com/file/d/1R-UCXRKS3nSirZ6q8m7iQKN8YTA2dXMG/view?usp=sharing
 
 - Preliminary analysis of results<br>
